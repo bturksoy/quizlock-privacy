@@ -1,7 +1,7 @@
 # QuizLock Privacy Policy — moved
 
 The policy now lives on Firebase Hosting at
-**https://quizlock.btrinteractive.de/privacy**
+**https://quizlock-app.web.app/privacy**
 (source: the `quizlock-site` repo, `privacy/index.html`).
 
 `index.html` here is only a redirect. Keep this repo and the GitHub Pages site
