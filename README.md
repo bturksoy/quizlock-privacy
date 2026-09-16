@@ -1,8 +1,10 @@
-# QuizLock Privacy Policy / Gizlilik Politikası
+# QuizLock Privacy Policy — moved
 
-The current policy is served from [index.html](index.html) at
-**https://bturksoy.github.io/quizlock-privacy/**
+The policy now lives on Firebase Hosting at
+**https://quizlock.btrinteractive.de/privacy**
+(source: the `quizlock-site` repo, `privacy/index.html`).
 
-Do not edit this README with policy text — the page users and Google Play see
-is `index.html`. Its source of truth lives in the app repository at
-`docs/store/privacy/index.html`; copy it here and push to publish.
+`index.html` here is only a redirect. Keep this repo and the GitHub Pages site
+published: old Play Console records, store listings and links in the wild still
+point at `https://bturksoy.github.io/quizlock-privacy/`, and this is what keeps
+them resolving.
